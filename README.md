@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 20 | 7 |
+| 21 | 8 |
 
 ---
 
@@ -16,7 +16,8 @@
 - [brute force](#brute-force) (4)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (15)
-- [math](#math) (4)
+- [math](#math) (5)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (7)
 
@@ -73,6 +74,13 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Janvii07/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Janvii07/Codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Janvii07/Codeforces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Janvii07/Codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Janvii07/Codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 
 ### sortings
 
