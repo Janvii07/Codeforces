@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 30 | 10 |
+| 31 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (6)
 - [dp](#dp) (1)
 - [greedy](#greedy) (3)
@@ -36,6 +36,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Janvii07/Codeforces/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.cpp) |
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Janvii07/Codeforces/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 
 ### brute force
 
